@@ -1,0 +1,8 @@
+[package]
+name = "monitor"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+syscalls = { version = "0.1.0", path = "../syscalls" }
+telemetry = { version = "0.1.0", path = "../telemetry" }

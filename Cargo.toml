@@ -1,0 +1,19 @@
+[package]
+name = "clippy"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+criterion = "0.8.2"
+daemon = { version = "0.1.0", path = "crates/daemon" }
+monitor = { version = "0.1.0", path = "crates/monitor" }
+telemetry = { version = "0.1.0", path = "crates/telemetry" }
+
+[workspace]
+members = ["crates/daemon","crates/monitor",
+    "crates/syscalls"
+, "crates/telemetry"]
+
+[[bench]]
+name = "clipboard_latency"
+harness = false

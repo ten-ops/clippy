@@ -1,0 +1,10 @@
+[package]
+name = "daemon"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+monitor = { version = "0.1.0", path = "../monitor" }
+syscalls = { version = "0.1.0", path = "../syscalls" }
+telemetry = { version = "0.1.0", path = "../telemetry" }
+tempfile = "3.26.0"
