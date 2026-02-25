@@ -4,7 +4,7 @@
 
 ---
 
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) [![Build Status](https://img.shields.io/github/actions/workflow/status/ten-ops/clippy/ci.yml?branch=main)](https://github.com/ten-ops/clippy/actions) [![Rust Version](https://img.shields.io/badge/rust-stable-orange.svg)](https://www.rust-lang.org/) [![Platform](https://img.shields.io/badge/platform-Linux%20x86__64-lightgrey.svg)](https://kernel.org/) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg) [![GitHub Stars](https://img.shields.io/github/stars/ten-ops/clippy?style=social)](https://github.com/ten-ops/clippy/stargazers)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) [![Rust Version](https://img.shields.io/badge/rust-stable-orange.svg)](https://www.rust-lang.org/) [![Platform](https://img.shields.io/badge/platform-Linux%20x86__64-lightgrey.svg)](https://kernel.org/) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg) [![GitHub Stars](https://img.shields.io/github/stars/ten-ops/clippy?style=social)](https://github.com/ten-ops/clippy/stargazers)
 
 ---
 
